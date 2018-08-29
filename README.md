@@ -24,3 +24,4 @@
 * [017-OC对象的分类01-instance对象](https://github.com/MisterBooo/iOSDeepLearning/blob/master/Markdown/017-OC对象的分类01-instance对象.md)
 * [018-OC对象的分类02-class对象](https://github.com/MisterBooo/iOSDeepLearning/blob/master/Markdown/018-OC对象的分类02-class对象.md)
 * [019-OC对象的分类03-meta-class对象](https://github.com/MisterBooo/iOSDeepLearning/blob/master/Markdown/019-OC对象的分类03-meta-class对象.md)
+* [020-OC对象的分类04-object_getClass内部实现](https://github.com/MisterBooo/iOSDeepLearning/blob/master/Markdown/020-OC对象的分类04-object_getClass内部实现.md)

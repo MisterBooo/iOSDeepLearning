@@ -25,4 +25,5 @@
 * [018-OC对象的分类02-class对象](https://github.com/MisterBooo/iOSDeepLearning/blob/master/Markdown/018-OC对象的分类02-class对象.md)
 * [019-OC对象的分类03-meta-class对象](https://github.com/MisterBooo/iOSDeepLearning/blob/master/Markdown/019-OC对象的分类03-meta-class对象.md)
 * [020-OC对象的分类04-object_getClass内部实现](https://github.com/MisterBooo/iOSDeepLearning/blob/master/Markdown/020-OC对象的分类04-object_getClass内部实现.md)
-* [026-isa和superclass05-总结02](https://github.com/MisterBooo/iOSDeepLearning/blob/master/Markdown/026-isa和superclass05-总结02)
+* [025-isa与superclass经典图](https://github.com/MisterBooo/iOSDeepLearning/blob/master/Markdown/025-isa与superclass经典图.md)
+* [026-isa和superclass05-总结02](https://github.com/MisterBooo/iOSDeepLearning/blob/master/Markdown/026-isa和superclass05-总结02.md)
